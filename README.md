@@ -1,1 +1,1 @@
-React test tutorial. 
+Jest and React-testing-library tutorial. 
