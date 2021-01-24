@@ -1,1 +1,2 @@
-Jest and React-testing-library tutorial. 
+Jest and React-testing-library tutorial project. 
+
